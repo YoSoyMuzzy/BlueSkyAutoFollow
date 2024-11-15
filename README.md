@@ -28,4 +28,5 @@ pip install pyautogui pynput pygetwindow
 Linux:
 
 pip install pyautogui pynput
+
 sudo apt-get install wmctrl  # For Ubuntu/Debian systems
